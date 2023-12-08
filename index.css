@@ -1,0 +1,26 @@
+/* Write your code here. */
+.bg-color {
+  background-color: #0f172a;
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.heading-style {
+  color: white;
+  font-family: "Roboto";
+  text-align: center;
+}
+
+.imgStyle {
+  height: 200px;
+  width: 200px;
+}
+
+.subCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
